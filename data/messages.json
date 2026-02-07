@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1770315126673",
+    "name": "First Msg",
+    "email": "First@gmail.com",
+    "phone": "+910123456789",
+    "message": "First Testing Demo Message ",
+    "createdAt": "2026-02-05T18:12:06.673Z"
+  },
+  {
+    "id": "1770315251703",
+    "name": "Second",
+    "email": "Second@gmail.com",
+    "phone": "+911234567890",
+    "message": "Second Testing Demo Message\n",
+    "createdAt": "2026-02-05T18:14:11.703Z"
+  },
+  {
+    "id": "1770315449422",
+    "name": "Third",
+    "email": "Third@gmail.com",
+    "phone": "+911231231230",
+    "message": "Third Message For Testing.",
+    "createdAt": "2026-02-05T18:17:29.422Z"
+  }
+]
